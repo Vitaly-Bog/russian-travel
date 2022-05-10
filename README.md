@@ -1,5 +1,7 @@
 # Проект: Путешествие по России
 
+ссылка на GH-pages https://vitaly-bog.github.io/russian-travel/
+
 ### Обзор
 * Интро
 * Figma
