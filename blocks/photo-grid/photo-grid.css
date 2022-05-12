@@ -4,8 +4,7 @@ display: grid;
 grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
 grid-template-rows: repeat(auto-fit, minmax(213px, 1fr));
 gap: 16px;
-margin: 92px 48px 0;
-padding: 0;
+
 }
 @media screen and (max-width: 1150px) {
     .photo-grid {
@@ -14,13 +13,11 @@ padding: 0;
 }
 @media screen and (max-width: 850px) {
     .photo-grid {
-        margin: 88px 24px 0;
         gap: 16px;
     }
   }
   @media screen and (max-width: 550px) {
     .photo-grid {
-        margin: 64px 16px 0;
         gap: 12px;
     }
   }
