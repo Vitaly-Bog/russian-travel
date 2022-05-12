@@ -1,16 +1,16 @@
-.photo-grid__margin {
+.photo-grid_margin {
     margin: 92px 48px 0;
     padding: 0;
 }
 
 @media screen and (max-width: 850px) {
-    .photo-grid__margin {
+    .photo-grid_margin {
         margin: 88px 24px 0;
     
     }
   }
   @media screen and (max-width: 550px) {
-    .photo-grid__margin {
+    .photo-grid_margin {
         margin: 64px 16px 0;
     
     }

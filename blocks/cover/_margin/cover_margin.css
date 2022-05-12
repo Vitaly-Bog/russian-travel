@@ -1,18 +1,18 @@
-.cover__margin {
+.cover_margin {
     margin: 92px 48px 0;
 }
 @media screen and (max-width: 1150px) {
-    .cover__margin {
+    .cover_margin {
     margin: 90px auto 0;
     }
   }
 @media screen and (max-width: 850px) {
-    .cover__margin {
+    .cover_margin {
     margin: 90px auto 0;
     }
   }
 @media screen and (max-width: 550px) {
-    .cover__margin {
+    .cover_margin {
     margin: 66px auto 0;
     }
   }
