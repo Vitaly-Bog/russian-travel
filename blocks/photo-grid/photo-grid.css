@@ -4,8 +4,10 @@ display: grid;
 grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
 grid-template-rows: repeat(auto-fit, minmax(213px, 1fr));
 gap: 16px;
-
+margin: 0 auto;
+padding: 92px 48px 0;
 }
+
 @media screen and (max-width: 1150px) {
     .photo-grid {
         gap: 14px;
@@ -14,10 +16,12 @@ gap: 16px;
 @media screen and (max-width: 850px) {
     .photo-grid {
         gap: 16px;
+        padding: 88px 24px 0;
     }
   }
   @media screen and (max-width: 550px) {
     .photo-grid {
         gap: 12px;
+        padding: 64px 16px 0;
     }
   }
